@@ -11,7 +11,7 @@ Logotipo:
 
 <img src="img/Logotipo-El-Baston-de-Granada.png" alt="Logotipo-El-Baston-de-Granada" style="zoom: 33%;" />
 
-Miembros
+Autor
  * :bust_in_silhouette:   Alejandro Cuenca Zurita     :octocat:     
 
 -----
