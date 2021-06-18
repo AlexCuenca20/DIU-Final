@@ -9,7 +9,7 @@ Descripción:
 
 Logotipo: 
 
-<img src="img/Logotipo-El-Baston-de-Granada.png" alt="Logotipo-El-Baston-de-Granada" style="zoom: 33%;" />
+<img src="img/yuzin-logo.png" alt="Logotipo-Yuzin" style="zoom: 33%;" />
 
 Autor
  * :bust_in_silhouette:   Alejandro Cuenca Zurita     :octocat:     
