@@ -33,7 +33,9 @@ En cuanto a las prácticas:
 # Parte 2.
 
 ## Caso de estudio. Web Yuzin
-
+----
+### Análisis
+----
 #### 1. Descripción
 
 En este caso realizaremos el rediseño de la página deb de Yuzin, una empresa dedicada a divulgar eventos culturales en Granada, así como en Sevilla. Mediante su página web podremos ver y reservar eventos que pueden ser publicados por los promotores culturales, siendo su objetivo hacer llegar a todo el mundo posibilidades culturales de una forma sencilla.
@@ -49,3 +51,52 @@ Para este análisis usaremos una persona ficticia que ya hemos usado en las prá
 #### 3. Usability Review
 
 Usaremos una plantilla para la revisión de la usabilidad de la web de Yuzin. El documento puede verse en [PDF](Usability.pdf)
+
+> Puntuación final:  61- Moderado
+
+Conclusión: Yuzin tiene una página web con un contenido y diseño un tanto desorganizado, y no priorizando lo más importante, la información y reserva de eventos culturales. Por tanto, creemos necesario que estos eventos ocupen una posición más importante en la página principal, así como ofrecer la opción de realizar comentarios y valoraciones sobre los eventos, para que otros usuarios puedan verlas y elegir el evento más acorde.
+
+#### 4. Evaluación de Accesibilidad
+
+Realizaremos un análisis de accesibilidad para evaluar los posibles problemas de accesibilidad.
+
+> Tras evaluar los diversos aspectos de accesibilidad, encontramos errores relacionados con las pautas WCAG y problemas visuales. Puede verse el informe completo en [PDF](Accesibilidad.pdf)
+
+### Diseño
+----
+
+Estableceremos una nueva propuesta de valor, pero siguiendo con las principales ideas y señas características de Yuzon (tipografría, colores...) para evitar perder el carácter y la identidad de esta revista.
+
+#### 1. Feedback Capture Grid
+
+Agrupamos puntos fuertes y débiles y utilizamos a nuestra persona ficticia (Soraya García) para conseguir preguntas a partir de la experiencia.
+
+<img src="img/Feedback.png" alt="Grid" style="zoom: 83%;" />
+
+#### 2. Sitemap
+
+Definiremos el sitemap del rediseño de Yuzin. El labelling no será necesario ya que los términos serán los mismos que los ya utilizados en la página.
+
+<img src="img/sitemap.png" alt="Sitemap" style="zoom: 83%;" />
+
+#### 3. Wireframes
+----
+> Página principal
+
+<img src="img/wireframe1.png" alt="Primer wireframe" style="zoom: 83%;" />
+
+----
+
+> Valorar evento
+
+<img src="img/wireframe2.png" alt="Segundo wireframe" style="zoom: 83%;" />
+
+
+----
+### Conclusiones
+----
+
+Este sería por tanto el análisis y rediseño de la web de Yuzin. Sin embargo, este es un primer esbozo de lo que sería necesario para el rediseño total, pero le daría una primera impresión a la parte interesada (en este caso la empresa de Yuzin), y finalmente poder realizar el diseño completo.
+
+De este modo, concluimos el análisis de Yuzin, habiendo mejorado, corregido y optimizado su página para que ésta consiga atraer y proveer de una mejor experiencia de usuario a aquellos usuarios nuevos, así como a los ya habituales visitantes de esta web y revista.
+
